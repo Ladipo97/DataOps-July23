@@ -6,3 +6,6 @@ On an agile team, stories are something the team can commit to finishing within 
 
 ### Addition made on Visual Studio Code
 The same is true for your work management, where the completion of related stories leads to the completion of an epic. The stories tell the arc of the work completed while the epic shares a high-level view of the unifying objective.
+
+### Addition made on Visual Studio Code (branching)---2
+If your company was launching rockets into space, and wanted to improve the streaming service for your launches, you might structure your stories like the ones below.
